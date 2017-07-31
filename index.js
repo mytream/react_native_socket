@@ -9,4 +9,4 @@
  */
 import { NativeModules } from 'react-native';
 
-module.exports = NativeModules.ToastAndroid;
+module.exports = NativeModules.HelloAndroid;
